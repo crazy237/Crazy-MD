@@ -72,7 +72,7 @@
                        "assets": "lib/assets"
                     },
                     "engines": {
-                       "node": ">=18.17.0 <20.5.0"
+                       "node": "^18.17.0"
                     },
                   "devDependencies": {
                        "pino": "^7.0.5"
