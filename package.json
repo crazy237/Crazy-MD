@@ -1,5 +1,5 @@
 { 
-                "name": "crazy237", 
+                "name": "crazy", 
                 "version": "0.0.2", 
                 "description": "Un bot WhatsApp MD multi-fonctionnel Camerounais recommandé.", 
                 "main": "lib/client.js", 
@@ -70,6 +70,9 @@
                   "directories": {
                        "lib": "lib",
                        "assets": "lib/assets"
+                    },
+                    "engines": {
+                       "node": ">=18.17.0 <20.5.0"
                     },
                   "devDependencies": {
                        "pino": "^7.0.5"
