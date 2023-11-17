@@ -1,5 +1,5 @@
 { 
-                "name": "crazy-md", 
+                "name": "crazy237", 
                 "version": "0.0.2", 
                 "description": "Un bot WhatsApp MD multi-fonctionnel Camerounais recommandé.", 
                 "main": "lib/client.js", 
@@ -76,10 +76,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "https://github.com/Itxxwasi/Wasitech-blueline"
+                 "url": "https://github.com/crazy237/Crazy-MD"
                   },
                  "bugs": {
-                 "url": "https://github.com/Itxxwasi/Wasitech-blueline/issues"
+                 "url": "https://github.com/crazy237/Crazy-MD/issues"
                   },
-                 "homepage": "https://github.com/Itxxwasi/Wasitech-bluelinee#readme"
+                 "homepage": "https://github.com/crazy237/Crazy-MD#readme"
                   }
