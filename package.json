@@ -1,17 +1,17 @@
 { 
-                "name": "wasi tech", 
+                "name": "crazy-md", 
                 "version": "0.0.2", 
-                "description": "Multi device whatsapp bot by moxie.", 
+                "description": "Un bot WhatsApp MD multi-fonctionnel Camerounais recommandé.", 
                 "main": "lib/client.js", 
                 "type": "commonjs", 
                 "license": "GPL-3.0", 
                 "scripts": { 
-                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name moxie", 
-                 "stop": "pm2 stop moxier" 
+                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name crazy", 
+                 "stop": "pm2 stop crazy" 
                  }, 
-                "author": "moxie", 
+                "author": "crazy", 
                "dependencies": { 
-                        "@whiskeysockets/baileys": "https://github.com/Itxxwasi/Wasitech-blueline",  
+                        "@whiskeysockets/baileys": "https://github.com/crazy237/Crazy-MD",  
                         "@adiwajshing/keyed-db": "^0.2.4", 
                         "awesome-phonenumber": "^3.3.0", 
                         "anime-character-random": "latest", 
